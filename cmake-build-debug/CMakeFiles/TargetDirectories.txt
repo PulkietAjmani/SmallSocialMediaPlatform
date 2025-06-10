@@ -1,0 +1,3 @@
+/Users/pulkdaboy/Downloads/azharmehmood690-attachments (2)/cmake-build-debug/CMakeFiles/azharmehmood690_attachments__2_.dir
+/Users/pulkdaboy/Downloads/azharmehmood690-attachments (2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pulkdaboy/Downloads/azharmehmood690-attachments (2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
